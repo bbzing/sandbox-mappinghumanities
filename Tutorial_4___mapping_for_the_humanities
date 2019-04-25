@@ -1,0 +1,71 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Tutorial 4 _ mapping for the humanities.ipynb",
+      "version": "0.3.2",
+      "provenance": [],
+      "collapsed_sections": [],
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/bbzing/sandbox-mappinghumanities/blob/master/Tutorial_4___mapping_for_the_humanities\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "metadata": {
+        "id": "eywNah19vj1L",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "cell_type": "code",
+      "source": [
+        ""
+      ],
+      "execution_count": 0,
+      "outputs": []
+    },
+    {
+      "metadata": {
+        "id": "LDeNieQdvkbP",
+        "colab_type": "text"
+      },
+      "cell_type": "markdown",
+      "source": [
+        "## Tutorial 4 : Telling stories with maps\n",
+        "\n",
+        "\n",
+        "*Data:*\n",
+        "- ACS language groups\n",
+        "- language institutions\n",
+        "- dual language programs in NYC public schools (private too?)\n",
+        "\n",
+        "One story about each - make three maps\n",
+        "\n",
+        "###Topics to cover:\n",
+        "\n",
+        "Quantitative Symbology & Classification\n",
+        "\n",
+        "Subset data layers\n",
+        "\n",
+        "Include querying (about pulling out the highpoint of a particular attribute)\n",
+        "\n",
+        "Layout & exporting of a map\n",
+        "\n"
+      ]
+    }
+  ]
+}
