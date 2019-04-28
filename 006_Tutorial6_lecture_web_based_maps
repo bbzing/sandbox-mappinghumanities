@@ -1,0 +1,81 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "tutorial6_lecture-web-based-maps.ipynb",
+      "version": "0.3.2",
+      "provenance": [],
+      "collapsed_sections": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "metadata": {
+        "id": "mbNwnvFPxlLV",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "cell_type": "code",
+      "source": [
+        ""
+      ],
+      "execution_count": 0,
+      "outputs": []
+    },
+    {
+      "metadata": {
+        "id": "1SPJEbZ9xmMW",
+        "colab_type": "text"
+      },
+      "cell_type": "markdown",
+      "source": [
+        "##Tutorial / Lecture : Web-based maps\n",
+        "\n",
+        "\n",
+        "Transform web map tutorial into lecture that points to web map resources\n",
+        "\n",
+        "- **Carto**: \n",
+        "[Refugee project](http://www.therefugeeproject.org/#/2017) \n",
+        "![refugee project image example]\n",
+        "    [Shape of Slavery](https://pudding.cool/2017/01/shape-of-slavery/)\n",
+        "\n",
+        "Neatline/Omeka\n",
+        "\n",
+        "Mapbox\n",
+        "\n",
+        "Leaflet\n",
+        "\n",
+        "Google\n",
+        "\n",
+        "Vici\n",
+        "\n",
+        "& then workshop about their own projects in relation to these?\n",
+        "\n",
+        "Same data as Thursday but all three layers together\n",
+        "\n",
+        "Spatial join with calculation (sum?)\n",
+        "\n",
+        "Clip by buffer\n",
+        "\n",
+        "Dissolve\n",
+        "\n",
+        " \n",
+        "\n",
+        "(possible additional skills to squeeze in somewhere:\n",
+        "\n",
+        "Turn on location history and then import\n",
+        "\n",
+        "kml to shape)\n",
+        "\n",
+        "[refugee project image example]: images-2019/refugee-project.png\n",
+        "\n",
+        "\n"
+      ]
+    }
+  ]
+}
